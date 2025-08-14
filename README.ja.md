@@ -70,7 +70,7 @@ Password-Generator/
 
 ## ライブデモ
 
-[🔗 デモを見る](https://your-demo-link-here.com)
+[🔗 デモを見る](https://passwordgenerator1630.netlify.app)
 
 ---
 
