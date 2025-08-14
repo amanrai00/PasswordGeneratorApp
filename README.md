@@ -51,7 +51,7 @@ This project was mainly focused on **JavaScript logic** and **DOM interaction**.
 Password-Generator/
 ├── images/
 ├── js/
-├── style/
+├── css/
 ├── index.html
 └── README.md
 ```

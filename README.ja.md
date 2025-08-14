@@ -52,7 +52,7 @@
 Password-Generator/
 ├── images/
 ├── js/
-├── style/
+├── css/
 ├── index.html
 └── README.md
 ```
