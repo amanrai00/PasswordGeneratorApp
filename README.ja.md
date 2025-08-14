@@ -76,9 +76,8 @@ Password-Generator/
 
 ## プレビュー
 
-| 生成画面 | コピー後メッセージ | モバイル表示 |
-|---|---|---|
-| ![Generate](images/screenshot-home.png) | ![Copied](images/screenshot-copy.png) | ![Mobile](images/screenshot-mobile.png) |
+![App Screenshot 1](images/screenshot1.png)
+![App Screenshot 2](images/screenshot2.png)
 
 ---
 

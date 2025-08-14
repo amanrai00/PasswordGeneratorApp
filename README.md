@@ -75,9 +75,8 @@ Password-Generator/
 
 ## Preview
 
-| Generate | Copied Message 
-|---|---|---|
-| ![Generate](images/screenshot-home.png) | ![Copied](images/screenshot-copy.png) | ![Mobile](images/screenshot-mobile.png) |
+![App Screenshot 1](images/screenshot1.png)
+![App Screenshot 2](images/screenshot2.png)
 
 ---
 
