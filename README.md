@@ -69,7 +69,7 @@ Password-Generator/
 
 ## Live Demo
 
-[🔗 View Demo](https://your-demo-link-here.com)
+[🔗 View Demo](https://passwordgenerator1630.netlify.app)
 
 ---
 
