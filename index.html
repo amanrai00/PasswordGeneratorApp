@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Generate a <br><span>Random Password</span></h1>
+
+        <div class="display">
+            <input type="text" id="password" placeholder="Password" readonly />
+            <div id="copyWrapper">
+                <img src="images/copy.png" alt="copy image" id="copyImg" />
+                <span id="copyMsg">Copied!</span>
+            </div>
+        </div>
+
+        <button id="genBtn">
+            <img src="images/generate.png" alt="generate image" />Generate Password
+        </button>
+
+        <div class="length">
+            <label for="len">Length: <span id="lenVal">12</span></label>
+            <input id="len" type="range" min="8" max="64" value="12" />
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
